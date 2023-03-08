@@ -24,7 +24,7 @@ For this lab, we will gather the data from 3 _csv_ files that are provided in th
 - Show the DataFrame's shape.
 - Standardize header names.
 - Rearrange the columns in the dataframe as needed
-- Correct the values in the column customer lifetime value. They are given as a percent, so divide them by 100 and change `dtype` to `numerical` type. (only 2 of the files need this step.)
+- Correct the values in the column 'customer lifetime value'. They are given as a percent, so divide them by 100 and change `dtype` to `numerical` type. (only 2 of the files need this step.)
 - Concatenate the three dataframes
 - Which columns are numerical?
 - Which columns are categorical?
